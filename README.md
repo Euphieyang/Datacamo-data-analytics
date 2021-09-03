@@ -1,2 +1,2 @@
-# yus
+# Data analytics in Python
 datacamp
